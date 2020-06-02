@@ -17,7 +17,7 @@ Stationarity is defined using very strict criterion. However, for practical purp
 - constant variance
 - an autocovariance that does not depend on time.
 
-More details can be foung out in [this article](https://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-modeling/)
+More details can be found out in [this article](https://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-modeling/)
 
 However, it might not always be possible to make visual inferences. So, more formally, we can check stationarity using the following:
 
