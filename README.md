@@ -76,3 +76,7 @@ An importance concern here is how to determine the value of ‘p’ and ‘q’.
 - Partial Autocorrelation Function (PACF): This measures the correlation between the TS with a lagged version of itself but after eliminating the variations already explained by the intervening comparisons. Eg at lag 5, it will check the correlation but remove the effects already explained by lags 1 to 4.
 
 The different Model used for Time Series forecasting can be imported from the library [statsmodels](https://www.statsmodels.org/stable/index.html) .
+
+
+### References:
+- https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/
