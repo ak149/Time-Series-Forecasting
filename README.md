@@ -1,6 +1,6 @@
 # Time-Series-Forecasting
 
-## A little introductio  to Time Series and the methods involved in forecasting.
+## A little introduction  to Time Series and the methods involved in forecasting.
 
 ##### Why is Time Series Special and need different algorithms?
 Time Series is a collection of data points collected at constant time intervals. These are analyzed to determine the long term trend so as to forecast the future or perform some other form of analysis. But what makes a TS different from say a regular regression problem? There are 2 things:
